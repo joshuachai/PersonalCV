@@ -23,8 +23,16 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
+      # 设置 Node.js 16
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      # Install dependencies
       - name: Install
         run: npm install --legacy-peer-deps
 
+      # Build the project
       - name: Build
         run: npm run build
