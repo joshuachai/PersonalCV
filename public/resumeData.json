@@ -1,12 +1,12 @@
 {
   "main": {
-    "name":"David Cyberlark",
+    "name":"Joshua Chase",
     "description":"Passionate about learning technology and sharing knowledge",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"My name is Joshua, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
     "contactmessage":"Thank you for your feedback.",
-    "email": "Dave@cyberlark.com.au",
-    "phone": "(04) 1234 5678",
+    "email": "joshuachase@outlook.com.au",
+    "phone": "0476 765 811",
     "github":"https://github.com/CyberlarkCode",
     "project":"https://github.com/CyberlarkCode",
     "address":{
@@ -44,7 +44,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com",
+        "url":"https://www.linkedin.com/in/joshua-chase-au/",
         "className":"fa fa-linkedin-square"
       },
       {
