@@ -3,7 +3,7 @@
     "name":"Joshua Chase",
     "description":"Junior Full Stack Developer",
     "image":"profile.jpg",
-    "bio":"My name is Joshua.",
+    "bio":"My name is Joshua. I am a Master’s student in Software Engineering at the University of Western Australia, with a Bachelor's degree in Computer Science from Heilongjiang University of Science and Technology. I possess a strong foundation in web development technologies such as HTML, CSS, JavaScript, and React, as well as programming languages including Python, C, Java, and R for data analysis. With hands-on experience in GitHub and basic proficiency in Flask. ",
     "contactmessage":"Thank you for your feedback.",
     "email": "joshuachase@outlook.com.au",
     "phone": "0476 765 811",
@@ -67,16 +67,16 @@
     ],
     "work":[
       {
-        "company":"Student Union of USTH",
+        "company":"Student Union of CSSE, HUST",
         "title":"President",
-        "years":"2023-2024",
+        "years":"2022-2023",
         "description":""
       }
     ],
     "skills":[
       {
         "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"55%"
+        "level":"45%"
       },
       {
         "name":"Frontend Development (React)",
@@ -88,7 +88,7 @@
       },
       {
         "name":"Leadership & Management",
-        "level":"65%"
+        "level":"63%"
       },
       {
         "name":"Passion & Eager to learn",
@@ -103,7 +103,7 @@
         "description": "Internet of Things Project",
         "category": "Project",
         "image":"00.png",
-        "url":"https://course.cyberlark.com.au/courses/it"
+        "url":""
       },
       {
         "title":"Project",
@@ -111,20 +111,6 @@
         "category": "Project",
         "image":"04.png",
         "url":"https://www.youtube.com/@joshuachaseau"
-      },
-      {
-        "title":"Video",
-        "description": "How to use Investment Property Calculator",
-        "category": "Video",
-        "image":"01.png",
-        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
-      },
-      {
-        "title":"Video",
-        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
-        "category":"Video",
-        "image":"02.png",
-        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
       }
     ]
   }
