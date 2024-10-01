@@ -44,20 +44,10 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#portfolio">
-                Works
+                Projects
               </a>
             </li>
 
-            <li>
-              <a href="https://course.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Courses
-              </a>
-            </li>
-            <li>
-              <a href="http://daigou.cyberlark.com.au/" target="_blank" rel="noreferrer">
-                Shop
-              </a>
-            </li>
           </ul>
         </nav>
 
