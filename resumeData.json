@@ -100,17 +100,17 @@
     "projects": [
       {
         "title":"Project",
+        "description": "Computational Data Analysis Project",
+        "category": "Project",
+        "image":"04.jpg",
+        "url":"https://joshuachaseau.github.io/Health-Causes-Data-Analysis/"
+      },
+      {
+        "title":"Project",
         "description": "Internet of Things Project",
         "category": "Project",
         "image":"00.png",
         "url":""
-      },
-      {
-        "title":"Project",
-        "description": "Computational Data Analysis Project",
-        "category": "Project",
-        "image":"04.png",
-        "url":"https://www.youtube.com/@joshuachaseau"
       }
     ]
   }
