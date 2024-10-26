@@ -34,5 +34,7 @@ jobs:
         run: npm install --legacy-peer-deps
 
       # Build the project
-      - name: Build
-        run: npm run build
+      - name: Set OpenSSL Compatibility
+        run: |
+          export NODE_OPTIONS=--openssl-legacy-provider
+          npm run build
