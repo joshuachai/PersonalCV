@@ -1,26 +1,16 @@
 name: Build
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
-
   pull_request:
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
       # 设置 Node.js 16
@@ -29,12 +19,23 @@ jobs:
         with:
           node-version: '16'
 
-      # Install dependencies
+      # 检查 Node.js 版本
+      - name: Check Node.js Version
+        run: node -v
+
+      # 清除缓存
+      - name: Cache Node.js modules
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      # 安装依赖
       - name: Install
         run: npm install --legacy-peer-deps
 
-      # Build the project
-      - name: Set OpenSSL Compatibility
-        run: |
-          export NODE_OPTIONS=--openssl-legacy-provider
-          npm run build
+      # 构建项目
+      - name: Build
+        run: npm run build
