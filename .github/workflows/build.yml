@@ -1,4 +1,4 @@
-name: Build
+name: Build and Deploy
 
 on:
   push:
@@ -13,29 +13,23 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # 设置 Node.js 16
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '16'
 
-      # 检查 Node.js 版本
       - name: Check Node.js Version
         run: node -v
 
-      # 清除缓存
-      - name: Cache Node.js modules
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      # 安装依赖
       - name: Install
         run: npm install --legacy-peer-deps
 
-      # 构建项目
       - name: Build
         run: npm run build
+
+      # 部署到 GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
