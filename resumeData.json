@@ -68,7 +68,7 @@
     "work":[
       {
         "company":"Student Union of CSSE, HUST",
-        "title":"President",
+        "title":"Chairman",
         "years":"2022-2023",
         "description":""
       }
@@ -110,7 +110,7 @@
         "description": "Internet of Things Project",
         "category": "Project",
         "image":"00.png",
-        "url":"https://joshuachaseau.github.io/Health-Causes-Data-Analysis/"
+        "url":""
       }
     ]
   }
