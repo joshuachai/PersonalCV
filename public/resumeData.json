@@ -1,14 +1,14 @@
 {
   "main": {
-    "name":"Joshua Chase",
-    "description":"Junior Full Stack Developer",
+    "name":"Joshua Chai",
+    "description":"Full Stack Developer",
     "image":"profile.jpg",
-    "bio":"My name is Joshua. I am a Master’s student in Software Engineering at the University of Western Australia, with a Bachelor's degree in Computer Science from Heilongjiang University of Science and Technology. I possess a strong foundation in web development technologies such as HTML, CSS, JavaScript, and React, as well as programming languages including Python, C, Java, and R for data analysis. With hands-on experience in GitHub and basic proficiency in Flask. ",
+    "bio":"Motivated and technically skilled Master’s student in Software Engineering at the UWA, with a strong foundation in full-stack development. Proficient in web technologies, including React, Django, ect., as well as data analytics tools like Python and R. Known for effective teamwork and delivering results in dynamic environments.",
     "contactmessage":"Thank you for your feedback.",
-    "email": "joshuachase@outlook.com.au",
+    "email": "joshuachai@outlook.com.au",
     "phone": "0476 765 811",
-    "github":"https://github.com/joshuachaseau",
-    "project":"https://github.com/joshuachaseau",
+    "github":"https://github.com/JoshuaInTech",
+    "project":"https://www.linkedin.com/in/joshuachai/",
     "address":{
       "line1":"Address: 555 Wellington St",
       "line2":"City: Perth",
@@ -16,25 +16,25 @@
     },
     "youtube":{
       "english": {
-        "name": "Joshua Chase",
+        "name": "Joshua Chai",
         "url": "hhttps://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q"
       },
       "chinese": {
-        "name": "Joshua Chase",
-        "url":"https://www.youtube.com/@joshuachaseau"
+        "name": "Joshua Chai",
+        "url":"https://www.youtube.com/@joshua-chai"
       }
     },
-    "website": "https://joshuachaseau.github.io/PersonalCV/",
+    "website": "https://joshuaintech.github.io/PersonalCV/",
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/joshua-chase-au/",
+        "url":"https://www.linkedin.com/in/joshuachai/",
         "className":"fa fa-linkedin-square"
       },
       {
         "name":"github",
-        "url":"https://github.com/joshuachaseau",
+        "url":"https://github.com/joshuaintech",
         "className":"fa fa-github"
       },
       {
@@ -43,9 +43,9 @@
         "className":"fa fa-youtube-square"
       },
       {
-        "name":"twitter",
-        "url":"https://x.com/joshuachaseau",
-        "className":"fa fa-twitter"
+        "name":"instagram",
+        "url":"https://www.instagram.com/joshua.chai_/",
+        "className":"fa fa-instagram"
       }
     ]
   },
@@ -55,40 +55,58 @@
       {
         "school":"University of Western Australia",
         "degree":"Master of Professional Engineering (Software Engineering)",
-        "graduated":"2024 - 2026",
+        "graduated":"2024 - Present",
         "description":""
       },
       {
         "school":"Heilongjiang University of Science and Technology",
-        "degree":"Bachelor of Computer Scinece",
+        "degree":"Bachelor of Computer Science",
         "graduated":"2020 - 2024",
+        "description":""
+      },
+      {
+        "school":"Northern Alberta Institute of Technology",
+        "degree":"Certificate of Achievement in the Digital Media and IT Program",
+        "graduated":"2021 - 2023",
         "description":""
       }
     ],
     "work":[
       {
-        "company":"Student Union of CSSE, HUST",
-        "title":"Chairman",
+        "company":"Coders for Causes, UWA",
+        "title":"Front-End Developer",
+        "years":"2024 - Present",
+        "description":"1. Developed responsive web applications using React and Tailwind CSS to enhance user experience.\n2. Collaborated with cross-functional teams, including designers and back-end developers, to deliver projects efficiently.\n3. Utilised version control systems like Git and GitHub for code collaboration."
+      },
+      {
+        "company":"StudyPerth",
+        "title":"International Student Ambassador",
+        "years":"2024 - Present",
+        "description":"1. Promoted StudyPerth events and initiatives through social media and public speaking.\n2. Represented StudyPerth at orientations and major student events, fostering a welcoming environment for new students.\n3. Developed leadership and mentoring skills and participating in professional development workshops."
+      },
+      {
+        "company":"Student Union of CSSE College, HUST",
+        "title":"President",
         "years":"2022-2023",
-        "description":""
+        "description":"1. Led a team of 12 council members to organise college events, resulting in a 29% increase in student participation.\n2. Initiated policies to improve student welfare and academic support services.\n3. Facilitated communication between students and faculty, effectively addressing and resolving student concerns."
       }
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"45%"
+        "name":"Backend Development",
+        "level":"65%"
       },
       {
-        "name":"Frontend Development (React)",
-        "level":"50%"
+        "name":"Frontend Development",
+        "level":"75%"
       },
       {
-        "name":"Computational Data Analysis (R)",
-        "level":"60%"
+        "name":"Computational Data Analysis",
+        "level":"70%"
       },
       {
-        "name":"Leadership & Management",
-        "level":"63%"
+        "name":"Version Control & Collaboration",
+        "level":"73%"
       },
       {
         "name":"Passion & Eager to learn",
@@ -99,19 +117,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Project",
-        "description": "Computational Data Analysis Project",
+        "title":"Personal CV",
+        "description": "A responsive portfolio website using React to showcase my education, skills, work experience, and projects.",
         "category": "Project",
-        "image":"04.jpg",
-        "url":"https://joshuachaseau.github.io/Health-Causes-Data-Analysis/"
+        "image":"06.png",
+        "url":"https://joshuaintech.github.io/PersonalCV/"
       },
       {
-        "title":"Project",
-        "description": "Internet of Things Project",
+        "title":"Health Data Analysis",
+        "description": "Developed ML models to analyse global health data, transitioning from classification to clustering techniques.",
+        "category": "Project",
+        "image":"04.jpg",
+        "url":"https://joshuaintech.github.io/Health-Causes-Data-Analysis/"
+      },
+      {
+        "title":"Smart Pet Feeder",
+        "description": "An IoT system that automates water refilling and monitors pet health using Raspberry Pi and sensors.",
         "category": "Project",
         "image":"00.png",
+        "url":"https://joshuaintech.github.io/petfeeder/"
+      },
+      {
+        "title":"WAJO (In Progress)",
+        "description": "Western Australian Junior mathematics Olympiad",
+        "category": "Project",
+        "image":"05.png",
         "url":""
       }
+      
     ]
   }
 }
