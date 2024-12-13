@@ -117,13 +117,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Personal CV",
-        "description": "A responsive portfolio website using React to showcase my education, skills, work experience, and projects.",
-        "category": "Project",
-        "image":"06.png",
-        "url":"https://joshuaintech.github.io/PersonalCV/"
-      },
-      {
         "title":"Health Data Analysis",
         "description": "Developed ML models to analyse global health data, transitioning from classification to clustering techniques.",
         "category": "Project",
@@ -136,6 +129,13 @@
         "category": "Project",
         "image":"00.png",
         "url":"https://joshuaintech.github.io/petfeeder/"
+      },
+      {
+        "title":"Personal CV",
+        "description": "A responsive portfolio website using React to showcase my education, skills, work experience, and projects.",
+        "category": "Project",
+        "image":"06.png",
+        "url":"https://joshuaintech.github.io/PersonalCV/"
       },
       {
         "title":"WAJO (In Progress)",
