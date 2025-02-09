@@ -7,10 +7,10 @@
     "contactmessage":"Thank you for your feedback.",
     "email": "joshuachai@outlook.com.au",
     "phone": "0476 765 811",
-    "github":"https://github.com/JoshuaInTech",
+    "github":"https://github.com/joshuachai",
     "project":"https://www.linkedin.com/in/joshuachai/",
     "address":{
-      "line1":"Address: 555 Wellington St",
+      "line1":"Address: 230 Hampden Road",
       "line2":"City: Perth",
       "line3":"Country: Australia"
     },
@@ -34,7 +34,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/joshuaintech",
+        "url":"https://github.com/joshuachai",
         "className":"fa fa-github"
       },
       {
@@ -73,7 +73,7 @@
     ],
     "work":[
       {
-        "company":"Coders for Causes, UWA",
+        "company":"Coders for Causes",
         "title":"Front-End Developer",
         "years":"2024 - Present",
         "description":"1. Developed responsive web applications using React and Tailwind CSS to enhance user experience.\n2. Collaborated with cross-functional teams, including designers and back-end developers, to deliver projects efficiently.\n3. Utilised version control systems like Git and GitHub for code collaboration."
@@ -94,7 +94,7 @@
     "skills":[
       {
         "name":"Backend Development",
-        "level":"65%"
+        "level":"60%"
       },
       {
         "name":"Frontend Development",
