@@ -51,6 +51,32 @@
   },
   "resume":{
     "skillmessage":"Technical Skills",
+    "work":[
+      {
+        "company":"Lions Eye Institute",
+        "title":"Software Engineer Intern",
+        "years":"Mar 2025 - Present",
+        "description":"1. Developed automated scripts for large-scale image data cleaning, ensuring data integrity and quality.\n2. Collaborated with researchers and senior engineers to design efficient data pipelines for subsequent model training.\n3. Conducted exploratory data analysis (EDA) using Python (Pandas, NumPy) to identify and address data anomalies in ophthalmic images."
+      },
+      {
+        "company":"Coders for Causes",
+        "title":"Committee Member",
+        "years":"Mar 2025 - Present",
+        "description":"1. Participated in strategic planning and decision-making for community tech initiatives.\n2. Helped coordinate team operations, recruitment, and internal communications."
+      },
+      {
+        "company":"Coders for Causes",
+        "title":"Front-End Developer",
+        "years":"Nov 2024 - Feb 2025",
+        "description":"1. Built interactive web applications with React and Tailwind CSS, improving UI performance.\n2. Improved front-end workflow efficiency by implementing reusable components and state management.\n3. Worked with designers and back-end developers to optimize UX and site responsiveness."
+      },
+      {
+        "company":"StudyPerth",
+        "title":"International Student Ambassador",
+        "years":"2024 - Present",
+        "description":"1. Developed strong cross-cultural communication skills, fostering collaboration in diverse teams.\n2. Represented StudyPerth at key student events, enhancing public speaking, networking, and leadership abilities."
+      }
+    ],
     "education":[
       {
         "school":"University of Western Australia",
@@ -69,26 +95,6 @@
         "degree":"Certificate of Achievement in the Digital Media and IT Program",
         "graduated":"2021 - 2023",
         "description":""
-      }
-    ],
-    "work":[
-      {
-        "company":"Coders for Causes",
-        "title":"Front-End Developer",
-        "years":"2024 - Present",
-        "description":"1. Developed responsive web applications using React and Tailwind CSS to enhance user experience.\n2. Collaborated with cross-functional teams, including designers and back-end developers, to deliver projects efficiently.\n3. Utilised version control systems like Git and GitHub for code collaboration."
-      },
-      {
-        "company":"StudyPerth",
-        "title":"International Student Ambassador",
-        "years":"2024 - Present",
-        "description":"1. Promoted StudyPerth events and initiatives through social media and public speaking.\n2. Represented StudyPerth at orientations and major student events, fostering a welcoming environment for new students.\n3. Developed leadership and mentoring skills and participating in professional development workshops."
-      },
-      {
-        "company":"Student Union of CSSE College, HUST",
-        "title":"President",
-        "years":"2022-2023",
-        "description":"1. Led a team of 12 council members to organise college events, resulting in a 29% increase in student participation.\n2. Initiated policies to improve student welfare and academic support services.\n3. Facilitated communication between students and faculty, effectively addressing and resolving student concerns."
       }
     ],
     "skills":[
@@ -121,21 +127,21 @@
         "description": "Developed ML models to analyse global health data, transitioning from classification to clustering techniques.",
         "category": "Project",
         "image":"04.jpg",
-        "url":"https://joshuaintech.github.io/Health-Causes-Data-Analysis/"
+        "url":"https://joshuachai.github.io/Health-Causes-Data-Analysis/"
       },
       {
         "title":"Smart Pet Feeder",
         "description": "An IoT system that automates water refilling and monitors pet health using Raspberry Pi and sensors.",
         "category": "Project",
         "image":"00.png",
-        "url":"https://joshuaintech.github.io/petfeeder/"
+        "url":"https://joshuachai.github.io/petfeeder/"
       },
       {
         "title":"Personal CV",
         "description": "A responsive portfolio website using React to showcase my education, skills, work experience, and projects.",
         "category": "Project",
         "image":"06.png",
-        "url":"https://joshuaintech.github.io/PersonalCV/"
+        "url":"https://joshuachai.github.io/PersonalCV/"
       },
       {
         "title":"WAJO (In Progress)",
