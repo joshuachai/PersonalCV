@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Joshua Chai",
-    "description":"Full Stack Developer",
+    "description":"Software Engineer",
     "image":"profile.jpg",
     "bio":"Motivated and technically skilled Master’s student in Software Engineering at the UWA, with a strong foundation in full-stack development. Proficient in web technologies, including React, Django, ect., as well as data analytics tools like Python and R. Known for effective teamwork and delivering results in dynamic environments.",
     "contactmessage":"Thank you for your feedback.",
-    "email": "joshuachai@outlook.com.au",
-    "phone": "0476 765 811",
+    "email": "joshua.chai@outlook.com.au",
+    "phone": "0478 475 666",
     "github":"https://github.com/joshuachai",
     "project":"https://www.linkedin.com/in/joshuachai/",
     "address":{
@@ -55,20 +55,14 @@
       {
         "company":"Lions Eye Institute",
         "title":"Software Engineer Intern",
-        "years":"Mar 2025 - Present",
-        "description":"1. Developed automated scripts for large-scale image data cleaning, ensuring data integrity and quality.\n2. Collaborated with researchers and senior engineers to design efficient data pipelines for subsequent model training.\n3. Conducted exploratory data analysis (EDA) using Python (Pandas, NumPy) to identify and address data anomalies in ophthalmic images."
+        "years":"Mar 2025 - Jun 2025",
+        "description":"1. Adapted to a medical research setting and communicated with clinical researchers to understand requirements and workflows.\n2. Built Python tools to automate file renaming, format conversion, normalisation, and merging of large CSV datasets derived from ophthalmic images, reducing manual handling time and errors.\n3. Developed visual summary tools using Python to help researchers track processing progress."
       },
       {
         "company":"Coders for Causes",
-        "title":"Committee Member",
+        "title":"Committee Member & Project Tech Leader",
         "years":"Mar 2025 - Present",
-        "description":"1. Participated in strategic planning and decision-making for community tech initiatives.\n2. Helped coordinate team operations, recruitment, and internal communications."
-      },
-      {
-        "company":"Coders for Causes",
-        "title":"Front-End Developer",
-        "years":"Nov 2024 - Feb 2025",
-        "description":"1. Built interactive web applications with React and Tailwind CSS, improving UI performance.\n2. Improved front-end workflow efficiency by implementing reusable components and state management.\n3. Worked with designers and back-end developers to optimize UX and site responsiveness."
+        "description":"1. Participated in strategic planning and decision-making for community tech initiatives.\n2. Helped coordinate team operations, recruitment, and internal communications.\n3. Designed the overall architecture of the RoboDrone competition website, coordinating the development of key modules such as the public-facing UI, admin interface, and dynamic leaderboard.\n4. Create and manage GitHub Issues, breaking down tasks into frontend and backend components for team members.\n5. Guide developers in implementing scalable solutions and ensure project goals align with stakeholder expectations."
       },
       {
         "company":"StudyPerth",
