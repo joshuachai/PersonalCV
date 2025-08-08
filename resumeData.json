@@ -3,7 +3,7 @@
     "name":"Joshua Chai",
     "description":"Software Engineer",
     "image":"profile.jpg",
-    "bio":"Motivated and technically skilled Master’s student in Software Engineering at the UWA, with a strong foundation in full-stack development. Proficient in web technologies, including React, Django, ect., as well as data analytics tools like Python and R. Known for effective teamwork and delivering results in dynamic environments.",
+    "bio":"Aspiring software engineer with a strong foundation in full-stack development. Experienced in building Python-based tools for clinical research and digital health. Passionate about using technology to support healthcare innovation. Strong communication skills and a proven ability to work collaboratively with cross-functional teams.",
     "contactmessage":"Thank you for your feedback.",
     "email": "joshua.chai@outlook.com.au",
     "phone": "0478 475 666",
@@ -128,7 +128,7 @@
         "description": "An IoT system that automates water refilling and monitors pet health using Raspberry Pi and sensors.",
         "category": "Project",
         "image":"00.png",
-        "url":"https://joshuachai.github.io/petfeeder/"
+        "url":"https://joshuachai.github.io/pet-feeder/"
       },
       {
         "title":"Personal CV",
