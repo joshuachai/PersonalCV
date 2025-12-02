@@ -55,7 +55,7 @@
       {
         "company":"Lions Eye Institute",
         "title":"Software Engineer Intern",
-        "years":"Mar 2025 - Jun 2025",
+        "years":"Mar 2025 - Present",
         "description":"1. Adapted to a medical research setting and communicated with clinical researchers to understand requirements and workflows.\n2. Built Python tools to automate file renaming, format conversion, normalisation, and merging of large CSV datasets derived from ophthalmic images, reducing manual handling time and errors.\n3. Developed visual summary tools using Python to help researchers track processing progress."
       },
       {
@@ -87,7 +87,7 @@
       {
         "school":"Northern Alberta Institute of Technology",
         "degree":"Certificate of Achievement in the Digital Media and IT Program",
-        "graduated":"2021 - 2023",
+        "graduated":"",
         "description":""
       }
     ],
@@ -101,12 +101,12 @@
         "level":"75%"
       },
       {
-        "name":"Computational Data Analysis",
+        "name":"Data Analysis and Reporting",
         "level":"70%"
       },
       {
         "name":"Version Control & Collaboration",
-        "level":"73%"
+        "level":"75%"
       },
       {
         "name":"Passion & Eager to learn",
@@ -118,14 +118,14 @@
     "projects": [
       {
         "title":"Sleep Matters",
-        "description": "“Sleep Matters” is a digital sleep log platform built as a patient-facing PWA with React on the frontend and Firebase (Firestore, Cloud Functions, Cloud Messaging) as the backend. It provides browser-based dashboards for clinicians and administrators to manage patients, review visualised sleep data, and update platform information, while patients use the mobile web app to record sleep logs and view summaries. After testing and client evaluation, the platform was confirmed to meet all requirements for effective digital sleep data management.",
+        "description": "“Sleep Matters” is a digital sleep log platform built as a patient-facing PWA with React on the frontend and Firebase as the backend.",
         "category": "Project",
         "image":"02.png",
         "url":"https://sleeplog-74c6f.firebaseapp.com/"
       },
       {
         "title":"RoboPro",
-        "description": "“RoboPro Leaderboard” is a web-based leaderboard platform for the 2025 Drone Competition & STEM Festival at Murdoch University, developed by Coders for Causes in collaboration with Squadrone and AICODE AUS. It is used to manage and display competition rankings and results throughout the event.",
+        "description": "“RoboPro Leaderboard” is a web-based leaderboard platform for the 2025 Drone Competition & STEM Festival at Murdoch University.",
         "category": "Project",
         "image":"01.png",
         "url":"https://robodrone.codersforcauses.org/"
