@@ -117,6 +117,20 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Sleep Matters",
+        "description": "“Sleep Matters” is a digital sleep log platform built as a patient-facing PWA with React on the frontend and Firebase (Firestore, Cloud Functions, Cloud Messaging) as the backend. It provides browser-based dashboards for clinicians and administrators to manage patients, review visualised sleep data, and update platform information, while patients use the mobile web app to record sleep logs and view summaries. After testing and client evaluation, the platform was confirmed to meet all requirements for effective digital sleep data management.",
+        "category": "Project",
+        "image":"02.png",
+        "url":"https://sleeplog-74c6f.firebaseapp.com/"
+      },
+      {
+        "title":"RoboPro",
+        "description": "“RoboPro Leaderboard” is a web-based leaderboard platform for the 2025 Drone Competition & STEM Festival at Murdoch University, developed by Coders for Causes in collaboration with Squadrone and AICODE AUS. It is used to manage and display competition rankings and results throughout the event.",
+        "category": "Project",
+        "image":"01.png",
+        "url":"https://robodrone.codersforcauses.org/"
+      },
+      {
         "title":"Health Data Analysis",
         "description": "Developed ML models to analyse global health data, transitioning from classification to clustering techniques.",
         "category": "Project",
@@ -129,20 +143,6 @@
         "category": "Project",
         "image":"00.png",
         "url":"https://joshuachai.github.io/pet-feeder/"
-      },
-      {
-        "title":"Personal CV",
-        "description": "A responsive portfolio website using React to showcase my education, skills, work experience, and projects.",
-        "category": "Project",
-        "image":"06.png",
-        "url":"https://joshuachai.github.io/PersonalCV/"
-      },
-      {
-        "title":"WAJO (In Progress)",
-        "description": "Western Australian Junior mathematics Olympiad",
-        "category": "Project",
-        "image":"05.png",
-        "url":""
       }
       
     ]
