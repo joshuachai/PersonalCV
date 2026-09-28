@@ -3,15 +3,15 @@
     "name":"Joshua Chai",
     "description":"Software Engineer",
     "image":"profile.jpg",
-    "bio":"Aspiring software engineer with a strong foundation in full-stack development. Experienced in building Python-based tools for clinical research and digital health. Passionate about using technology to support healthcare innovation. Strong communication skills and a proven ability to work collaboratively with cross-functional teams.",
+    "bio":"Junior software developer with internship and team project experience in Australia. Worked on web applications using React and Django and developed Python image analysis software for medical research. Seeking a developer role to contribute to projects and learn from experienced developers.",
     "contactmessage":"Thank you for your feedback.",
     "email": "joshua.chai@outlook.com.au",
     "phone": "0478 475 666",
     "github":"https://github.com/joshuachai",
     "project":"https://www.linkedin.com/in/joshuachai/",
     "address":{
-      "line1":"Address: 230 Hampden Road",
-      "line2":"City: Perth",
+      "line1":"Perth",
+      "line2":"6000",
       "line3":"Country: Australia"
     },
     "youtube":{
@@ -24,7 +24,7 @@
         "url":"https://www.youtube.com/@joshua-chai"
       }
     },
-    "website": "https://joshuaintech.github.io/PersonalCV/",
+    "website": "https://joshuachai.github.io/PersonalCV/",
     "resumedownload":"./images/resume.pdf",
     "social":[
       {
@@ -41,11 +41,6 @@
         "name":"youtube-chinese",
         "url":"https://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q",
         "className":"fa fa-youtube-square"
-      },
-      {
-        "name":"instagram",
-        "url":"https://www.instagram.com/joshua.chai_/",
-        "className":"fa fa-instagram"
       }
     ]
   },
@@ -54,10 +49,11 @@
     "work":[
       {
         "company":"Lions Eye Institute",
+        "years":"Mar 2025 - Jun 2026",
         "title":"Software Engineer Intern",
-        "years":"Mar 2025 - Present",
         "description":"1. Adapted to a medical research setting and communicated with clinical researchers to understand requirements and workflows.\n2. Built Python tools to automate file renaming, format conversion, normalisation, and merging of large CSV datasets derived from ophthalmic images, reducing manual handling time and errors.\n3. Developed visual summary tools using Python to help researchers track processing progress."
       },
+      
       {
         "company":"Coders for Causes",
         "title":"Committee Member & Project Tech Leader",
@@ -71,17 +67,34 @@
         "description":"1. Developed strong cross-cultural communication skills, fostering collaboration in diverse teams.\n2. Represented StudyPerth at key student events, enhancing public speaking, networking, and leadership abilities."
       }
     ],
+    "resume":{
+  "skillmessage":"Technical Skills",
+  "work":[
+    {
+      "company":"Lions Eye Institute",
+      "years":"Feb 2025 - May 2025; Nov 2025 - Feb 2026",
+      "title":"Software Engineer Intern",
+      "description":"1. Automated image formatting and file renaming using Python to prepare ophthalmic datasets for processing.\n2. Migrated components of an existing image-analysis application from MATLAB to Python.\n3. Implemented calculation logic and integrated analysis results into the application's user interface.\n4. Debugged processing workflows and updated features based on researcher feedback.\n5. Reduced processing time from around 60 seconds to under 30 seconds by optimising processing algorithms."
+    },
+    {
+      "company":"Lions Eye Institute",
+      "years":"Jun 2025 - Oct 2025; Feb 2026 - Jun 2026",
+      "title":"Research Assistant, UWA Thesis Project",
+      "description":"1. Continued developing OCTAVA as part of a master's thesis project, building on previous internship work.\n2. Reviewed research needs and existing approaches to define requirements for a new software analysis module.\n3. Developed a new analysis module within the existing Python application while maintaining its original functionality.\n4. Updated the user interface with adjustable settings and controls for selecting analysis regions and viewing results.\n5. Reused existing application components and integrated the new module with result displays and file exports.\n6. Compared alternative algorithms using test data and tested the complete workflow from input to export.\n7. Delivered the new OCTAVA analysis module and completed the master's thesis and final defence."
+    }
+  ]
+}
     "education":[
       {
         "school":"University of Western Australia",
         "degree":"Master of Professional Engineering (Software Engineering)",
-        "graduated":"2024 - Present",
+        "graduated":"Jul 2024 - Jul 2026",
         "description":""
       },
       {
         "school":"Heilongjiang University of Science and Technology",
         "degree":"Bachelor of Computer Science",
-        "graduated":"2020 - 2024",
+        "graduated":"Oct 2020 - Jun 2024",
         "description":""
       },
       {
@@ -93,23 +106,23 @@
     ],
     "skills":[
       {
-        "name":"Backend Development",
-        "level":"60%"
+        "name":"React",
+        "level":"100%"
       },
       {
-        "name":"Frontend Development",
-        "level":"75%"
+        "name":"Django",
+        "level":"100%"
       },
       {
-        "name":"Data Analysis and Reporting",
-        "level":"70%"
+        "name":"Tailwind CSS",
+        "level":"100%"
       },
       {
-        "name":"Version Control & Collaboration",
-        "level":"75%"
+        "name":"Next.js",
+        "level":"100%"
       },
       {
-        "name":"Passion & Eager to learn",
+        "name":"Python",
         "level":"100%"
       }
     ]
