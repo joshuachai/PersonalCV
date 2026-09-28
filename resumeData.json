@@ -1,163 +1,150 @@
 {
   "main": {
-    "name":"Joshua Chai",
-    "description":"Software Engineer",
-    "image":"profile.jpg",
-    "bio":"Junior software developer with internship and team project experience in Australia. Worked on web applications using React and Django and developed Python image analysis software for medical research. Seeking a developer role to contribute to projects and learn from experienced developers.",
-    "contactmessage":"Thank you for your feedback.",
+    "name": "Joshua Chai",
+    "description": "Software Engineer",
+    "image": "profile.jpg",
+    "bio": "Junior software developer with internship and team project experience in Australia. Worked on web applications using React and Django and developed Python image analysis software for medical research. Seeking a developer role to contribute to projects and learn from experienced developers.",
+    "contactmessage": "Thank you for your feedback.",
     "email": "joshua.chai@outlook.com.au",
     "phone": "0478 475 666",
-    "github":"https://github.com/joshuachai",
-    "project":"https://www.linkedin.com/in/joshuachai/",
-    "address":{
-      "line1":"Perth",
-      "line2":"6000",
-      "line3":"Country: Australia"
+    "github": "https://github.com/joshuachai",
+    "project": "https://www.linkedin.com/in/joshuachai/",
+    "address": {
+      "line1": "Perth",
+      "line2": "6000",
+      "line3": "Country: Australia"
     },
-    "youtube":{
+    "youtube": {
       "english": {
         "name": "Joshua Chai",
-        "url": "hhttps://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q"
+        "url": "https://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q"
       },
       "chinese": {
         "name": "Joshua Chai",
-        "url":"https://www.youtube.com/@joshua-chai"
+        "url": "https://www.youtube.com/@joshua-chai"
       }
     },
     "website": "https://joshuachai.github.io/PersonalCV/",
-    "resumedownload":"./images/resume.pdf",
-    "social":[
+    "resumedownload": "./images/resume.pdf",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/joshuachai/",
-        "className":"fa fa-linkedin-square"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joshuachai/",
+        "className": "fa fa-linkedin-square"
       },
       {
-        "name":"github",
-        "url":"https://github.com/joshuachai",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/joshuachai",
+        "className": "fa fa-github"
       },
       {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q",
-        "className":"fa fa-youtube-square"
+        "name": "youtube-chinese",
+        "url": "https://www.youtube.com/channel/UC88jwfRvVZtNPd6eXsnd61Q",
+        "className": "fa fa-youtube-square"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Technical Skills",
-    "work":[
+  "resume": {
+    "skillmessage": "Technical Skills",
+    "work": [
       {
-        "company":"Lions Eye Institute",
-        "years":"Mar 2025 - Jun 2026",
-        "title":"Software Engineer Intern",
-        "description":"1. Adapted to a medical research setting and communicated with clinical researchers to understand requirements and workflows.\n2. Built Python tools to automate file renaming, format conversion, normalisation, and merging of large CSV datasets derived from ophthalmic images, reducing manual handling time and errors.\n3. Developed visual summary tools using Python to help researchers track processing progress."
-      },
-      
-      {
-        "company":"Coders for Causes",
-        "title":"Committee Member & Project Tech Leader",
-        "years":"Mar 2025 - Present",
-        "description":"1. Participated in strategic planning and decision-making for community tech initiatives.\n2. Helped coordinate team operations, recruitment, and internal communications.\n3. Designed the overall architecture of the RoboDrone competition website, coordinating the development of key modules such as the public-facing UI, admin interface, and dynamic leaderboard.\n4. Create and manage GitHub Issues, breaking down tasks into frontend and backend components for team members.\n5. Guide developers in implementing scalable solutions and ensure project goals align with stakeholder expectations."
+        "company": "Lions Eye Institute",
+        "years": "Feb 2025 - May 2025; Nov 2025 - Feb 2026",
+        "title": "Software Engineer Intern",
+        "description": "1. Automated image formatting and file renaming using Python to prepare ophthalmic datasets for processing.\n2. Migrated components of an existing image-analysis application from MATLAB to Python.\n3. Implemented calculation logic and integrated analysis results into the application's user interface.\n4. Debugged processing workflows and updated features based on researcher feedback.\n5. Reduced processing time from around 60 seconds to under 30 seconds by optimising processing algorithms."
       },
       {
-        "company":"StudyPerth",
-        "title":"International Student Ambassador",
-        "years":"2024 - Present",
-        "description":"1. Developed strong cross-cultural communication skills, fostering collaboration in diverse teams.\n2. Represented StudyPerth at key student events, enhancing public speaking, networking, and leadership abilities."
+        "company": "Lions Eye Institute",
+        "years": "Jun 2025 - Oct 2025; Feb 2026 - Jun 2026",
+        "title": "Research Assistant, UWA Thesis Project",
+        "description": "1. Continued developing OCTAVA as part of a master's thesis project, building on previous internship work.\n2. Reviewed research needs and existing approaches to define requirements for a new software analysis module.\n3. Developed a new analysis module within the existing Python application while maintaining its original functionality.\n4. Updated the user interface with adjustable settings and controls for selecting analysis regions and viewing results.\n5. Reused existing application components and integrated the new module with result displays and file exports.\n6. Compared alternative algorithms using test data and tested the complete workflow from input to export.\n7. Delivered the new OCTAVA analysis module and completed the master's thesis and final defence."
+      },
+      {
+        "company": "Coders for Causes",
+        "title": "Committee Member & Project Tech Leader",
+        "years": "Mar 2025 - Present",
+        "description": "1. Participated in strategic planning and decision-making for community tech initiatives.\n2. Helped coordinate team operations, recruitment, and internal communications.\n3. Designed the overall architecture of the RoboDrone competition website, coordinating the development of key modules such as the public-facing UI, admin interface, and dynamic leaderboard.\n4. Created and managed GitHub Issues, breaking down tasks into frontend and backend components for team members.\n5. Guided developers in implementing scalable solutions and ensured project goals aligned with stakeholder expectations."
+      },
+      {
+        "company": "StudyPerth",
+        "title": "International Student Ambassador",
+        "years": "2024 - Present",
+        "description": "1. Developed strong cross-cultural communication skills, fostering collaboration in diverse teams.\n2. Represented StudyPerth at key student events, enhancing public speaking, networking, and leadership abilities."
       }
     ],
-    "resume":{
-  "skillmessage":"Technical Skills",
-  "work":[
-    {
-      "company":"Lions Eye Institute",
-      "years":"Feb 2025 - May 2025; Nov 2025 - Feb 2026",
-      "title":"Software Engineer Intern",
-      "description":"1. Automated image formatting and file renaming using Python to prepare ophthalmic datasets for processing.\n2. Migrated components of an existing image-analysis application from MATLAB to Python.\n3. Implemented calculation logic and integrated analysis results into the application's user interface.\n4. Debugged processing workflows and updated features based on researcher feedback.\n5. Reduced processing time from around 60 seconds to under 30 seconds by optimising processing algorithms."
-    },
-    {
-      "company":"Lions Eye Institute",
-      "years":"Jun 2025 - Oct 2025; Feb 2026 - Jun 2026",
-      "title":"Research Assistant, UWA Thesis Project",
-      "description":"1. Continued developing OCTAVA as part of a master's thesis project, building on previous internship work.\n2. Reviewed research needs and existing approaches to define requirements for a new software analysis module.\n3. Developed a new analysis module within the existing Python application while maintaining its original functionality.\n4. Updated the user interface with adjustable settings and controls for selecting analysis regions and viewing results.\n5. Reused existing application components and integrated the new module with result displays and file exports.\n6. Compared alternative algorithms using test data and tested the complete workflow from input to export.\n7. Delivered the new OCTAVA analysis module and completed the master's thesis and final defence."
-    }
-  ]
-}
-    "education":[
+    "education": [
       {
-        "school":"University of Western Australia",
-        "degree":"Master of Professional Engineering (Software Engineering)",
-        "graduated":"Jul 2024 - Jul 2026",
-        "description":""
+        "school": "University of Western Australia",
+        "degree": "Master of Professional Engineering (Software Engineering)",
+        "graduated": "Jul 2024 - Jul 2026",
+        "description": ""
       },
       {
-        "school":"Heilongjiang University of Science and Technology",
-        "degree":"Bachelor of Computer Science",
-        "graduated":"Oct 2020 - Jun 2024",
-        "description":""
+        "school": "Heilongjiang University of Science and Technology",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "Oct 2020 - Jun 2024",
+        "description": ""
       },
       {
-        "school":"Northern Alberta Institute of Technology",
-        "degree":"Certificate of Achievement in the Digital Media and IT Program",
-        "graduated":"",
-        "description":""
+        "school": "Northern Alberta Institute of Technology",
+        "degree": "Certificate of Achievement in the Digital Media and IT Program",
+        "graduated": "",
+        "description": ""
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"React",
-        "level":"100%"
+        "name": "React",
+        "level": "100%"
       },
       {
-        "name":"Django",
-        "level":"100%"
+        "name": "Django",
+        "level": "100%"
       },
       {
-        "name":"Tailwind CSS",
-        "level":"100%"
+        "name": "Tailwind CSS",
+        "level": "100%"
       },
       {
-        "name":"Next.js",
-        "level":"100%"
+        "name": "Next.js",
+        "level": "100%"
       },
       {
-        "name":"Python",
-        "level":"100%"
+        "name": "Python",
+        "level": "100%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Sleep Matters",
+        "title": "Sleep Matters",
         "description": "“Sleep Matters” is a digital sleep log platform built as a patient-facing PWA with React on the frontend and Firebase as the backend.",
         "category": "Project",
-        "image":"02.png",
-        "url":"https://sleeplog-74c6f.firebaseapp.com/"
+        "image": "02.png",
+        "url": "https://sleeplog-74c6f.firebaseapp.com/"
       },
       {
-        "title":"RoboPro",
+        "title": "RoboPro",
         "description": "“RoboPro Leaderboard” is a web-based leaderboard platform for the 2025 Drone Competition & STEM Festival at Murdoch University.",
         "category": "Project",
-        "image":"01.png",
-        "url":"https://robodrone.codersforcauses.org/"
+        "image": "01.png",
+        "url": "https://robodrone.codersforcauses.org/"
       },
       {
-        "title":"Health Data Analysis",
+        "title": "Health Data Analysis",
         "description": "Developed ML models to analyse global health data, transitioning from classification to clustering techniques.",
         "category": "Project",
-        "image":"04.jpg",
-        "url":"https://joshuachai.github.io/Health-Causes-Data-Analysis/"
+        "image": "04.jpg",
+        "url": "https://joshuachai.github.io/Health-Causes-Data-Analysis/"
       },
       {
-        "title":"Smart Pet Feeder",
+        "title": "Smart Pet Feeder",
         "description": "An IoT system that automates water refilling and monitors pet health using Raspberry Pi and sensors.",
         "category": "Project",
-        "image":"00.png",
-        "url":"https://joshuachai.github.io/pet-feeder/"
+        "image": "00.png",
+        "url": "https://joshuachai.github.io/pet-feeder/"
       }
-      
     ]
   }
 }
