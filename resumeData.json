@@ -10,9 +10,7 @@
     "github": "https://github.com/joshuachai",
     "project": "https://www.linkedin.com/in/joshuachai/",
     "address": {
-      "line1": "Perth",
-      "line2": "6000",
-      "line3": "Country: Australia"
+      "line1": "Perth, Australia"
     },
     "youtube": {
       "english": {
@@ -48,28 +46,28 @@
     "skillmessage": "Technical Skills",
     "work": [
       {
-        "company": "Lions Eye Institute",
+        "company": "Lions Eye Institute, Perth, Australia",
         "years": "Feb 2025 - May 2025; Nov 2025 - Feb 2026",
         "title": "Software Engineer Intern",
         "description": "1. Automated image formatting and file renaming using Python to prepare ophthalmic datasets for processing.\n2. Migrated components of an existing image-analysis application from MATLAB to Python.\n3. Implemented calculation logic and integrated analysis results into the application's user interface.\n4. Debugged processing workflows and updated features based on researcher feedback.\n5. Reduced processing time from around 60 seconds to under 30 seconds by optimising processing algorithms."
       },
       {
-        "company": "Lions Eye Institute",
+        "company": "Lions Eye Institute, Perth, Australia",
         "years": "Jun 2025 - Oct 2025; Feb 2026 - Jun 2026",
         "title": "Research Assistant, UWA Thesis Project",
         "description": "1. Continued developing OCTAVA as part of a master's thesis project, building on previous internship work.\n2. Reviewed research needs and existing approaches to define requirements for a new software analysis module.\n3. Developed a new analysis module within the existing Python application while maintaining its original functionality.\n4. Updated the user interface with adjustable settings and controls for selecting analysis regions and viewing results.\n5. Reused existing application components and integrated the new module with result displays and file exports.\n6. Compared alternative algorithms using test data and tested the complete workflow from input to export.\n7. Delivered the new OCTAVA analysis module and completed the master's thesis and final defence."
       },
       {
-        "company": "Coders for Causes",
-        "title": "Committee Member & Project Tech Leader",
-        "years": "Mar 2025 - Present",
-        "description": "1. Participated in strategic planning and decision-making for community tech initiatives.\n2. Helped coordinate team operations, recruitment, and internal communications.\n3. Designed the overall architecture of the RoboDrone competition website, coordinating the development of key modules such as the public-facing UI, admin interface, and dynamic leaderboard.\n4. Created and managed GitHub Issues, breaking down tasks into frontend and backend components for team members.\n5. Guided developers in implementing scalable solutions and ensured project goals aligned with stakeholder expectations."
+        "company": "StudyPerth, Perth, Australia",
+        "title": "International Student Ambassador",
+        "years": "Dec 2024 – Aug 2026",
+        "description": "StudyPerth promotes Perth as a study destination and supports international students. Joined the ambassador program to help fellow students navigate the challenges of studying and living in Australia. Delivered orientation presentations to groups of over 200 students, introducing StudyPerth services and life in Perth. Worked with staff and university teams on student engagement activities and shared student perspectives with education and government representatives."
       },
       {
-        "company": "StudyPerth",
-        "title": "International Student Ambassador",
-        "years": "2024 - Present",
-        "description": "1. Developed strong cross-cultural communication skills, fostering collaboration in diverse teams.\n2. Represented StudyPerth at key student events, enhancing public speaking, networking, and leadership abilities."
+        "company": "The McCusker Centre for Citizenship, Perth, Australia",
+        "title": "Student Advisory Committee Member",
+        "years": "Jul 2025 - Oct 2025",
+        "description": "The McCusker Centre for Citizenship connects UWA students with community organisations through internships that promote active citizenship. Joined the committee to give back to the community after learning about active citizenship through the Centre’s program. Shared internship experiences during alumni panel presentations and provided individual guidance to students at Centre events. Contributed to committee discussions on student engagement activities."
       }
     ],
     "education": [
@@ -111,6 +109,10 @@
       },
       {
         "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Github",
         "level": "100%"
       }
     ]
